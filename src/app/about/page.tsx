@@ -11,7 +11,7 @@ const skillsData = [
     },
     {
         skill: 'Familiar Technologies:',
-        items: ['MySQL', 'Postgresql', 'SQLAlchemy', 'AWS EC2', 'AWS RDS', 'AWS S3', 'GIT', 'Github', 'Socket Programming', 'Pandas', 'Numpy', 'Mathplotlib']
+        items: ['MySQL', 'Postgresql', 'SQLAlchemy', 'AWS EC2', 'AWS RDS', 'AWS S3', 'GIT', 'Github', 'Socket Programming', 'Pandas', 'Numpy', 'Matplotlib']
     },
 ];
 
